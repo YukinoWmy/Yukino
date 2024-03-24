@@ -1,20 +1,19 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Yukino's notes
+longtitle:        Yukino's notes
+author:           Yukino
+email:            wmyeiving@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://yukinowmy.github.io'
 baseurl:          '/Yukino'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: yukinowmy/Yukino
 
 toc:
   enabled: true
