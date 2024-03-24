@@ -2,9 +2,8 @@
 title: Transformer-Based Deep Survival Analysis
 author: Yukino
 date: 2024-03-24
-category: paper
+category: Jekyll
 layout: post
-mermaid: true
 ---
 
 ## 主要思想
