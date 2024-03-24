@@ -13,7 +13,7 @@ baseurl:          '/Yukino'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: yukinowmy/Yukino
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
